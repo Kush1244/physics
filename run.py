@@ -1,5 +1,9 @@
 import os
 
+def compile_files():
+    pass
+
+
 
 def RunRandomThoughts():
     quant_dir = "./src/quantities"
