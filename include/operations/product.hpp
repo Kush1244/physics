@@ -3,8 +3,7 @@
 
 #include "../quantities/scalar_quantity.hpp"
 #include "../quantities/vec_quantity.hpp"
-scalar_quantity dot_product(const vec_quantity& a, const vec_quantity& b) {
-}
+scalar_quantity dot_product(const vec_quantity& a, const vec_quantity& b) {}
 vec_quantity cross_product(const vec_quantity& a, const vec_quantity& b) {}
 
 /* Operator Overload for cross and dot product */
