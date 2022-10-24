@@ -8,5 +8,6 @@
 #include "include/quantities/vec_quantity.hpp"
 int main() {
   scalar_quantity distance(10, unit(0, 1, 0));
+  distance.display();
   return 0;
 }
