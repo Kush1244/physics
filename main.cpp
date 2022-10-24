@@ -6,6 +6,12 @@
 #include "include/quantities/triple.hpp"
 #include "include/quantities/unit.hpp"
 #include "include/quantities/vec_quantity.hpp"
+
+void print_something() {
+  
+}
+
+
 int main() {
   scalar_quantity distance(10, unit(0, 1, 0));
   distance.display();
