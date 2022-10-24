@@ -23,6 +23,6 @@ public:
             m_start += m_incr;
             return i;
         }
-        return INT32_MAX;
+        return (m_start - 1);
     }
 };

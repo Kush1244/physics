@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "complex": "cpp",
+        "string": "cpp",
+        "iterator": "cpp"
+    }
+}

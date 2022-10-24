@@ -1,8 +1,14 @@
-#define DEBUG
 #include <iostream>
-#include "num_range.hpp"
-
-int main()
-{
-    range a(1, -2, -1);
+#define debug
+#include "include/quantities/angle.hpp"
+#include "include/quantities/constants.hpp"
+#include "include/quantities/point.hpp"
+#include "include/quantities/scalar_quantity.hpp"
+#include "include/quantities/triple.hpp"
+#include "include/quantities/unit.hpp"
+#include "include/quantities/vec_quantity.hpp"
+#include "include/quantities/scalar_quantity.hpp"
+int main() {
+  scalar_quantity distance(10, unit(0, 1, 0));
+  return 0;
 }
