@@ -1,0 +1,9 @@
+/Users/chetankaushik/codes/RandomThoughts/build/CMakeFiles/physics_simulation.dir
+/Users/chetankaushik/codes/RandomThoughts/build/CMakeFiles/edit_cache.dir
+/Users/chetankaushik/codes/RandomThoughts/build/CMakeFiles/rebuild_cache.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/core/CMakeFiles/core.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/core/CMakeFiles/edit_cache.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/core/CMakeFiles/rebuild_cache.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/debugutils/CMakeFiles/debugutils.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/debugutils/CMakeFiles/edit_cache.dir
+/Users/chetankaushik/codes/RandomThoughts/build/dependencies/debugutils/CMakeFiles/rebuild_cache.dir
